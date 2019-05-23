@@ -27,4 +27,6 @@ Murphree DH, Quest DJ, Allen RM, Ngufor C, Storlie CB.https://www.ncbi.nlm.nih.g
 
 10. We Appreciate Power! https://github.com/PatWilson/BSI_2019
 
+### Icon Attribution
+
 11. Flaticons attribution:  Right to left {Eucalyp} from Flaticon, {Eucalyp} from Flaticon, {mynamepong} from Flaticon, {Pixel perfect} from Flaticon, {surang} from Flaticon, {Good Ware} from Flaticon https://www.flaticon.com/
