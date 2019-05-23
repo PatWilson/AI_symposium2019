@@ -13,7 +13,7 @@ Murphree DH, Quest DJ, Allen RM, Ngufor C, Storlie CB.https://www.ncbi.nlm.nih.g
 
 4. The Stepped Wedge Cluster Randomized Trial and Its Potential for Child Health Services Research: A Narrative review. Yasaman Fatemi and Robert Jacobson. https://www.academicpedsjnl.net/article/S1876-2859(14)00390-8/abstract
 
-5. EProposed variations of the stepped-wedge design can be used to accommodate multiple interventions. Vivian Lyons et. al. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835387/
+5. Proposed variations of the stepped-wedge design can be used to accommodate multiple interventions. Vivian Lyons et. al. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835387/
 
 6. Cluster Randomised Trials. Richard Hayes and Lawrence Moulton. https://www.amazon.com/Design-Analysis-Cluster-Randomization-Research/dp/0470711000
 
